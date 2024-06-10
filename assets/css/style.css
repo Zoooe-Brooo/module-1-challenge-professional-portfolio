@@ -1,0 +1,52 @@
+* {
+
+}
+
+:root {
+    --first-color: orange;
+    --second-color: yellow;
+    --third-color: pink;
+    --dark-color: green;
+    --light-color: white;
+    --border-radius: 50px;
+}
+
+body {
+
+}
+
+h1, h2, h3 {
+
+}
+
+p {
+
+}
+
+header {
+
+}
+
+header h1 {
+
+}
+
+nav {
+
+}
+
+nav a {
+
+}
+
+nav a:hover {
+    
+}
+
+main {
+
+}
+
+@media screen {
+    
+}
