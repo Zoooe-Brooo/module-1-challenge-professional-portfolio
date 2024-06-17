@@ -1,7 +1,7 @@
 # module-1-challenge-professional-portfolio
 A webpage of Zoe's professional portfolio
 
-## Links
+## Link
 https://zoooe-brooo.github.io/module-2-challenge-professional-portfolio/
 
 ![Screenshot of Deployed Web](./assets/images/sreenshot-of-deployed-web.png)
